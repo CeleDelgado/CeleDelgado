@@ -49,9 +49,9 @@ Behance: cele.delgado.2013@gmail.com
 
 ---------------------------------
 
-[![Tecnología MC](src/mctechnology_extendido.GIF)](https://www.youtube.com/c/mctechnology17)
+[![CeleDelgado](src/mctechnology_extendido.GIF)](https://www.youtube.com/c/CeleDelgado)
 
-<h1 align="center">Hola, soy Marcos - Tecnología MC <img src="./src/wave.gif" width="30px"></h1>
+<h1 align="center">Hola, soy Cele - <img src="./src/wave.gif" width="30px"></h1>
 
 <tabla alinear="derecha">
 <tr>
