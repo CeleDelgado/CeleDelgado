@@ -1,15 +1,16 @@
 
-<h1 align="center">Hola, soy Cele  <img src="./wave.gif" width="30px"></h1>
+<h1 align="center">Hola, soy Cele  <img src="./-src/wave.gif" width="30px"></h1>
 
 <tabla alinear="derecha">
 <tr>
 <td>
 
-[<img align="left" alt="Cele Delgado | YouTube" width="22px" src="./youtube.png" />][youtube]
-[<img align="left" alt="@___cele_ | Instagram" width="22px" src="./instagram.png" />][instagram]
-[<img align="left" alt="Celeste Delgado | Facebook" width="22px" src="./facebook.png" />][facebook]
+[<img align="left" alt="Cele Delgado | YouTube" width="22px" src="./-src/youtube.png" />][youtube]
+[<img align="left" alt="@___cele_ | Instagram" width="22px" src="./-src/instagram.png" />][instagram]
+[<img align="left" alt="Celeste Delgado | Facebook" width="22px" src="./-src/facebook.png" />][facebook]
+[<img align="left" alt="Celeste Delgado | Linkedin" width="22px" src="./-src/linkedin.png" />][linkedin]
+[<img align="left" alt="Cele Delgado | Behance" width="22px" src="./-src/behance.png" />][behance]
 
- (AGREGAR LINKEDIN Y BEHANCE)
 
 </td>
 </tr>
@@ -32,51 +33,57 @@
 </detalles>
 
 <br />
-
 ---
-
-<h3 align="center"><img src="./src/cabeza.GIF" width="30px" height="30px"> Últimos Proyectos</h3> VER
-
-<tr>
- 
-</tr>
+<h3 align= "center"> <img src="./-src/giphy.gif" width="70px" height="25px"> </h3>
 
 <br />
 <br />
 
 ---
 
-<h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3> PONER GIF DE CODIGO
+<h3 align="center"><img src="./-src/programming.png" width="25px" height="25px"> Languages and Tools</h3> 
+
 <p align="center">
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
+    <a <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a"/> </a>
+    <a <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/> </a>
+    <a <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/> </a>
+    <a <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a"/> </a>
+    <a <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a"/> </a>
+    <a <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a"/> </a>
+    <a <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/> </a>
+    <a <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
+    <a <img src="https://img.shields.io/badge/Tools-AutoCAD-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
+    <a <img src="https://img.shields.io/badge/Tools-Adobe-Lightroom-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
+    <a <img src="https://img.shields.io/badge/Tools-Adobe-Photoshop-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
+    <a <img src="https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
+    <a <img src="https://img.shields.io/badge/Tools-Procreate-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
+    <a <img src="https://img.shields.io/badge/Tools-Maya-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
+    
+    
+    
 </p>
 
 
 ---
 
-<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats </h3> DESCARGAR GIF DED ESTADISTICA
+<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats </h3> DESCARGAR GIF DE ESTADISTICA
 
 <div>
   <a href="https://github.com/mctechnology17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CeleDelgado&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeleDelgado&layout=compact&langs_count=7&theme=radical"/>
-</div> coRREGIR LOS CUADROS
+</div> 
 
 ![Animación de serpiente](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
 
 
 
                                                                                                                                                    
-[youtube]: https://www.youtube.com/c/Cele%Delgado
+[youtube]: https://www.youtube.com/c/Cele-Delgado
 [instagram]: https://www.instagram.com/___cele_/
-[facebook]: https://m.facebook.com/Celeste%Delgado/
+[facebook]: https://www.facebook.com/Celeste-Delgado/
+[linkedin]: https://www.linkedin.com/in/celeste-delgado
+[behance]: https://www.behance.net/celedelgado
 
 
 
