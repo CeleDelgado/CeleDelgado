@@ -1,13 +1,13 @@
 
-<h1 align="center">Hola, soy Cele - <img src="./wave.gif" width="30px"></h1>
+<h1 align="center">Hola, soy Cele  <img src="./wave.gif" width="30px"></h1>
 
 <tabla alinear="derecha">
 <tr>
 <td>
 
-[<img align="left" alt="Tecnología MC | YouTube" width="22px" src="./src/youtube.png" />][youtube]
-[<img align="left" alt="@mctechnology17 | Instagram" width="22px" src="./src/instagram.png" />][instagram]
-[<img align="left" alt="MC Technology17 | Facebook" width="22px" src="./src/facebook.png" />][facebook]
+[<img align="left" alt="Tecnología MC | YouTube" width="22px" src="./youtube.png" />][youtube]
+[<img align="left" alt="@mctechnology17 | Instagram" width="22px" src="./instagram.png" />][instagram]
+[<img align="left" alt="MC Technology17 | Facebook" width="22px" src="./facebook.png" />][facebook]
 [<img align="left" alt="@mctechnology17 | Reddit" width="22px" src="./src/reddit.png" />][reddit]
  (AGREGAR LINKEDIN Y BEHANCE)
 
@@ -38,86 +38,7 @@
 <h3 align="center"><img src="./src/cabeza.GIF" width="30px" height="30px"> Últimos Proyectos</h3> VER
 
 <tr>
-<td>
-
-[<img align="left" alt="gm | Git Manager" width="50px" src="./src/git_logo.png" />][gm] VER
-
-</td>
-<td> <h4 align="left"> <a href="https://github.com/mctechnology17/gm" target="_blank"><code>GitManager</code></a> </h4>
-  <detalles>
-    <summary>ver más...</summary>
-
-    GitManager(gm) git manager con una interfaz de usuario amigable
-    Compatibilidad: zsh/bash/fish/powershell y vim/vi/nvim/Gvim/MacVim
-
-  </detalles> </td>
-</tr>
-<tr>
-<td>
-
-<img align="left" alt="vim-better-header | vim-better-header " width="50px" src="./src/vim-better-header.png" />
-
-</td>
-<img align="right" alt=yomero" width="450px" height="450px" src="./src/pokemon.GIF">
-<td> <h4 align="left"> <a href="https://github.com/mctechnology17/vim-better-header" target="_blank"><code>vim-better-header</code> </a> </h4>
-  <detalles>
-    <summary>ver más...</summary>
-
-    vim-better-header es una mejor plantilla automatizada
-
-  </detalles> </td>
-</tr>
-<tr>
-<td>
-
-[<img align="left" alt="vimtools | VimTools" width="50px" src="./src/vim.png" />][vimtools]
-
-</td>
-<td> <h4 align="left"> <a href="https://github.com/mctechnology17/vimtools" target="_blank"><code>vimtools</code></a> </h4>
-  <detalles>
-    <summary>ver más...</summary>
-
-    VimTools es funciones y configuraciones
-    eso te facilitará la vida
-
-  </detalles> </td>
-</tr>
-<tr>
-<td>
-
-[<img align="left" alt="uiswitch | Error de interfaz de usuario" width="50px" src="./src/uiglitch.png" />][uiglitch]
-
-</td>
-<td> <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiglitch/" target="_blank"><code>Falla de interfaz de usuario</code> </a> </h4>
-  <detalles>
-    <summary>ver más...</summary>
-
-    ¡La falla de la interfaz de usuario está aquí!
-    Dale a tu iPhone un aspecto diferente con UI Glitch.
-    ¡La familia UI de MC Technology! ¡Diseñado para los amantes de la interfaz de usuario!
-    ¡Con UI Glitch puedes obtener una combinación exquisita para complementar tus temas!
-    ¡Más de 20 Tonos con diferentes grados de opacidad y colores!
-    ¡Compatibilidad con miles de temas! ¡Incluye un tema animado exclusivo!
-
-  </detalles> </td>
-</tr>
-<tr>
-<td>
-
-[<img align="left" alt="uiswitches | UI Switches" width="50px" src="./src/uiswitches.png" />][uiswitches]
-
-</td>
-<td> <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiswitches/" target="_blank"><code>Conmutadores de interfaz de usuario</code> </a> </h4>
-  <detalles>
-    <summary>ver más...</summary>
-
-    Conmutadores de interfaz de usuario
-    ¡Dale a tu iPhone un aspecto diferente con UI Switches the UI family by MC Technology! ¡Diseñado para los amantes de la interfaz de usuario!
-    ¿Cómo usar los interruptores de interfaz de usuario? Instale Snowboard y la extensión de interfaz de usuario de Snowboard desde el repositorio de Spark.
-    ¡Luego activa los interruptores de la interfaz de usuario desde la configuración de Snowboard y disfruta :D!
-    O use iThemer o Anemone para la activación
-
-  </detalles> </td>
+ 
 </tr>
 
 <br />
@@ -125,7 +46,7 @@
 
 ---
 
-<h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
+<h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3> PONER GIF DE CODIGO
 <p align="center">
     <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a"/> </a>
     <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/> </a>
@@ -140,13 +61,13 @@
 
 ---
 
-<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats </h3>
+<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats </h3> DESCARGAR GIF DED ESTADISTICA
 
 <div>
   <a href="https://github.com/mctechnology17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CeleDelgado&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mctechnology17&layout=compact&langs_count=7&theme=radical"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeleDelgado&layout=compact&langs_count=7&theme=radical"/>
+</div> coRREGIR LOS CUADROS
 
 ![Animación de serpiente](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
 
