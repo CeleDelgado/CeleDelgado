@@ -1,15 +1,15 @@
 
-<h1 align="center">Hola, soy Cele  <img src="./-src/wave.gif" width="30px"></h1>
+<h1 align="center">Hola, soy Cele  <img src="./wave.gif" width="30px"></h1>
 
 <tabla alinear="derecha">
 <tr>
 <td>
 
-[<img align="left" alt="Cele Delgado | YouTube" width="22px" src="./-src/youtube.png" />][youtube]
-[<img align="left" alt="@___cele_ | Instagram" width="22px" src="./-src/instagram.png" />][instagram]
-[<img align="left" alt="Celeste Delgado | Facebook" width="22px" src="./-src/facebook.png" />][facebook]
-[<img align="left" alt="Celeste Delgado | Linkedin" width="22px" src="./-src/linkedin.png" />][linkedin]
-[<img align="left" alt="Cele Delgado | Behance" width="22px" src="./-src/behance.png" />][behance]
+[<img align="left" alt="Cele Delgado | YouTube" width="22px" src="./youtube.png" />][youtube]
+[<img align="left" alt="@___cele_ | Instagram" width="22px" src="./instagram.png" />][instagram]
+[<img align="left" alt="Celeste Delgado | Facebook" width="22px" src="./facebook.png" />][facebook]
+[<img align="left" alt="Celeste Delgado | Linkedin" width="22px" src="./linkedin.png" />][linkedin]
+[<img align="left" alt="Cele Delgado | Behance" width="22px" src="./behance.png" />][behance]
 
 
 </td>
@@ -34,14 +34,14 @@
 
 <br />
 ---
-<h3 align= "center"> <img src="./-src/giphy.gif" width="70px" height="25px"> </h3>
+<h3 align= "center"> <img src="./giphy.gif" width="70px" height="25px"> </h3>
 
 <br />
 <br />
 
 ---
 
-<h3 align="center"><img src="./-src/programming.png" width="25px" height="25px"> Languages and Tools</h3> 
+<h3 align="center"><img src="./programming.png" width="25px" height="25px"> Languages and Tools</h3> 
 
 <p align="center">
     <a <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a"/> </a>
