@@ -49,8 +49,6 @@ Behance: cele.delgado.2013@gmail.com
 
 ---------------------------------
 
-[![CeleDelgado](src/mctechnology_extendido.GIF)](https://www.youtube.com/c/CeleDelgado)
-
 <h1 align="center">Hola, soy Cele - <img src="./src/wave.gif" width="30px"></h1>
 
 <tabla alinear="derecha">
@@ -70,7 +68,7 @@ Behance: cele.delgado.2013@gmail.com
 <detalles>
   <summary>:zap: ¡Sobre mí!</summary>
 
-### 🔬 Bioanalista Clínico y actualmente estoy estudiando un Máster en Bioinformática 💻!!
+### 🔬 Bioanalista Clínico y actualmente estoy estudiando un Máster en Bioinformática!!
 - 🦾 ¡Me encanta el PowerLifting!
 - 🤓 actualmente estoy aprendiendo todo
 - 👾 Soy muy curiosa y por eso te pones a estudiar programación
