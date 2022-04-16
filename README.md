@@ -5,9 +5,9 @@
 <tr>
 <td>
 
-[<img align="left" alt="Cele Delgado | YouTube" width="22px" src="./youtube.png" />][youtube]
+[<img align="left" alt="CeleDelgado | YouTube" width="22px" src="./youtube.png" />][youtube]
 [<img align="left" alt="@___cele_ | Instagram" width="22px" src="./instagram.png" />][instagram]
-[<img align="left" alt="Celeste Delgado | Facebook" width="22px" src="./facebook.png" />][facebook]
+[<img align="left" alt="CelesteDelgado | Facebook" width="22px" src="./facebook.png" />][facebook]
 
  (AGREGAR LINKEDIN Y BEHANCE)
 
