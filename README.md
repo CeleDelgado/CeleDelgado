@@ -1,42 +1,4 @@
 
-
-Lenguages in which i specialize:
-
-C
-
-C++
-
-HTML
-
-CSS
-
-
-I have knowledge in:
-
-Adobe Photoshop
-
-Adobe Lightroom
-
-AutoCAD
-
-Procreate
-
-
-I am passionate about education, technology, programming and graphic design, do not hesitate to Contact me
-
-
-📫 Contact me 👇
-
-GMAIL: cele.delgado.2013@gmail.com
-
-LINKEDIN: Celeste DELGADO
-
-Behance: cele.delgado.2013@gmail.com
-
-
-
----------------------------------
-
 <h1 align="center">Hola, soy Cele - <img src="./src/wave.gif" width="30px"></h1>
 
 <tabla alinear="derecha">
