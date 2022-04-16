@@ -5,9 +5,9 @@
 <tr>
 <td>
 
-[<img align="left" alt="CeleDelgado | YouTube" width="22px" src="./youtube.png" />][youtube]
+[<img align="left" alt="Cele Delgado | YouTube" width="22px" src="./youtube.png" />][youtube]
 [<img align="left" alt="@___cele_ | Instagram" width="22px" src="./instagram.png" />][instagram]
-[<img align="left" alt="CelesteDelgado | Facebook" width="22px" src="./facebook.png" />][facebook]
+[<img align="left" alt="Celeste Delgado | Facebook" width="22px" src="./facebook.png" />][facebook]
 
  (AGREGAR LINKEDIN Y BEHANCE)
 
@@ -74,9 +74,9 @@
 
 
                                                                                                                                                    
-[youtube]: https://www.youtube.com/c/CeleDelgado
+[youtube]: https://www.youtube.com/c/Cele%Delgado
 [instagram]: https://www.instagram.com/___cele_/
-[facebook]: https://m.facebook.com/CelesteDelgado/
+[facebook]: https://m.facebook.com/Celeste%Delgado/
 
 
 
