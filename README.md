@@ -37,36 +37,22 @@
 <h3 align="center"> <img src="./programming.png" width="25px" height="25px"> Languages and Tools</h3> 
 <p align="center">
   
-  <img src="./programming.png" width="25px" height="25px">
-  <img src="./programming.png" width="25px" height="25px">
-  <img src="./programming.png" width="25px" height="25px">
-  <img src="./programming.png" width="25px" height="25px">
-  <img src="./programming.png" width="25px" height="25px">
-  <img src="./programming.png" width="25px" height="25px">
-  <img src="./programming.png" width="25px" height="25px">
-  <img src="./programming.png" width="25px" height="25px">
-  <img src="./programming.png" width="25px" height="25px">
-  <img src="./programming.png" width="25px" height="25px">
-  <img src="./programming.png" width="25px" height="25px">
-  <img src="./programming.png" width="25px" height="25px">
-  <img src="./programming.png" width="25px" height="25px">
-  <img src="./programming.png" width="25px" height="25px">
-  
+
     
-  <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a"/>
+    <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a"/>
     <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/>
-    <a <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/> </a>
-    <a <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a"/> </a>
-    <a <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a"/> </a>
-    <a <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a"/> </a>
-    <a <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/> </a>
-    <a <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
-    <a <img src="https://img.shields.io/badge/Tools-AutoCAD-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
-    <a <img src="https://img.shields.io/badge/Tools-Adobe-Lightroom-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
-    <a <img src="https://img.shields.io/badge/Tools-Adobe-Photoshop-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
-    <a <img src="https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
-    <a <img src="https://img.shields.io/badge/Tools-Procreate-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
-    <a <img src="https://img.shields.io/badge/Tools-Maya-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
+    <img src="https://img.shields.io/badgeCode-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/>
+    <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a"/>
+    <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a"/>
+    <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a"/>
+    <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/>
+    <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/>
+    <img src="https://img.shields.io/badge/Tools-AutoCAD-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/>
+    <img src="https://img.shields.io/badge/Tools-Adobe-Lightroom-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/>
+    <img src="https://img.shields.io/badge/Tools-Adobe-Photoshop-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/>
+    <img src="https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/>
+    <img src="https://img.shields.io/badge/Tools-Procreate-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/>
+    <img src="https://img.shields.io/badge/Tools-Maya-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/>
     
     
 </p>
