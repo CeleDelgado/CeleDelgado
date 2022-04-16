@@ -5,7 +5,7 @@
 <tr>
 <td>
 
-[<img align="left" alt="CeleDelgado | YouTube" width="22px" src="./youtube.png" />][youtube]
+[<img align="left" alt="CeleDelgado | YouTube" width="22px" src="./youtube2.gif" />][youtube]
 [<img align="left" alt="@___cele_ | Instagram" width="22px" src="./instagram.png" />][instagram]
 [<img align="left" alt="CelesteDelgado | Facebook" width="22px" src="./facebook.png" />][facebook]
 
