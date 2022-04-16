@@ -5,10 +5,10 @@
 <tr>
 <td>
 
-[<img align="left" alt="Tecnología MC | YouTube" width="22px" src="./youtube.png" />][youtube]
+[<img align="left" alt="Cele Delgado | YouTube" width="22px" src="./youtube.png" />][youtube]
 [<img align="left" alt="@___cele_ | Instagram" width="22px" src="./instagram.png" />][instagram]
-[<img align="left" alt="MC Technology17 | Facebook" width="22px" src="./facebook.png" />][facebook]
-[<img align="left" alt="@mctechnology17 | Reddit" width="22px" src="./src/reddit.png" />][reddit]
+[<img align="left" alt="Celeste Delgado | Facebook" width="22px" src="./facebook.png" />][facebook]
+
  (AGREGAR LINKEDIN Y BEHANCE)
 
 </td>
@@ -74,9 +74,9 @@
 
 
                                                                                                                                                    
-[youtube]: https://www.youtube.com/c/mctechnology17
+[youtube]: https://www.youtube.com/c/CeleDelgado
 [instagram]: https://www.instagram.com/___cele_/
-[facebook]: https://m.facebook.com/mctechnology17/
+[facebook]: https://m.facebook.com/CelesteDelgado/
 
-[gm]: https://github.com/mctechnology17/gm
+
 
