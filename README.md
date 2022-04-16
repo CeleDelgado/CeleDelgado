@@ -5,11 +5,11 @@
 <tr>
 <td>
 
-[<img align="left" alt="Cele Delgado | YouTube" width="22px" src="./youtube.png" />][youtube]
-[<img align="left" alt="@___cele_ | Instagram" width="22px" src="./instagram.png" />][instagram]
-[<img align="left" alt="Celeste Delgado | Facebook" width="22px" src="./facebook.png" />][facebook]
-[<img align="left" alt="Celeste Delgado | Linkedin" width="22px" src="./linkedin.png" />][linkedin]
-[<img align="left" alt="Cele Delgado | Behance" width="22px" src="./behance.png" />][behance]
+[<img align="right" alt="Cele-Delgado | YouTube" width="22px" src="./youtube.png" />][youtube]
+[<img align="right" alt="@___cele_ | Instagram" width="22px" src="./instagram.png" />][instagram]
+[<img align="right" alt="Celeste-Delgado | Facebook" width="22px" src="./facebook.png" />][facebook]
+[<img align="right" alt="Celeste-Delgado | Linkedin" width="22px" src="./linkedin.png" />][linkedin]
+[<img align="right" alt="Cele-Delgado | Behance" width="22px" src="./behance.png" />][behance]
 
 
 </td>
@@ -34,11 +34,7 @@
 
 <br />
 ---
-<h3 align= "center"> <img src="./giphy.gif" width="70px" height="25px"> </h3>
-
-<br />
-<br />
-
+<h3 align= "center"> <img src="./giphy.gif" width="70px" height="70px"> </h3>
 ---
 
 <h3 align="center"><img src="./programming.png" width="25px" height="25px"> Languages and Tools</h3> 
@@ -58,7 +54,6 @@
     <a <img src="https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
     <a <img src="https://img.shields.io/badge/Tools-Procreate-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
     <a <img src="https://img.shields.io/badge/Tools-Maya-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
-    
     
     
 </p>
@@ -81,7 +76,7 @@
                                                                                                                                                    
 [youtube]: https://www.youtube.com/c/Cele-Delgado
 [instagram]: https://www.instagram.com/___cele_/
-[facebook]: https://www.facebook.com/Celeste-Delgado/
+[facebook]: https://www.facebook.com/Celeste-Delgado
 [linkedin]: https://www.linkedin.com/in/celeste-delgado
 [behance]: https://www.behance.net/celedelgado
 
