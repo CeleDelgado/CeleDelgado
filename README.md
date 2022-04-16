@@ -33,13 +33,11 @@
 </detalles>
 
 <br />
----
-<h3 align= "center"> <img src="./giphy.gif" width="70px" height="70px"> </h3>
----
 
 <h3 align="center"><img src="./programming.png" width="25px" height="25px"> Languages and Tools</h3> 
 
-<p align="center">
+<div> align="center">
+  
     <a <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a"/> </a>
     <a <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/> </a>
     <a <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/> </a>
@@ -56,7 +54,7 @@
     <a <img src="https://img.shields.io/badge/Tools-Maya-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
     
     
-</p>
+</div>
 
 
 ---
