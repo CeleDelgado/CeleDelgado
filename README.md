@@ -38,22 +38,22 @@
 <p align="center">
   
 
-    
-    <img href="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a"/>
-    <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/>
-    <img src="https://img.shields.io/badgeCode-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/>
-    <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a"/>
-    <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a"/>
-    <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a"/>
-    <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/>
-    <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/>
-    <img src="https://img.shields.io/badge/Tools-AutoCAD-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/>
-    <img src="https://img.shields.io/badge/Tools-Adobe-Lightroom-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/>
-    <img src="https://img.shields.io/badge/Tools-Adobe-Photoshop-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/>
-    <img src="https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/>
-    <img src="https://img.shields.io/badge/Tools-Procreate-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/>
-    <img src="https://img.shields.io/badge/Tools-Maya-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/>
-    
+   <img src="./OS-MacOS-informational.svg" width="25px" height="25px">
+   <img src="./OS-Windows-informational.svg" width="25px" height="25px">
+   <img src="./Code-C++-informational.svg" width="25px" height="25px">
+   <img src="./Code-C-informational.svg" width="25px" height="25px">
+   <img src="./Code-HTML5-informational.svg" width="25px" height="25px">
+   <img src="./Code-JavaScript-informational.svg" width="25px" height="25px">
+   <img src="./Tools-Git-informational.svg" width="25px" height="25px">
+   <img src="./Tools-GitHub-informational.svg" width="25px" height="25px">
+   <img src="./Tools-AutoCAD-informational.svg" width="25px" height="25px">
+   <img src="./Tools-AdobeLightroom-informational.svg" width="25px" height="25px">
+   <img src="./Tools-AdobePhotoshop-informational.svg" width="25px" height="25px">
+   <img src="./AdobeIllustrator-informational.svg" width="25px" height="25px">
+   <img src="./Procreate-informational.svg" width="25px" height="25px">
+   <img src="./Maya-informational.svg" width="25px" height="25px">
+  
+  
     
 </p>
 
