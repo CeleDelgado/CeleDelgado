@@ -38,7 +38,7 @@
 <p align="center">
   
 
-   <img src="./OS-MacOS-informational.svg" width="39px" height="20px">
+   <img src="./OS-MacOS-informational.svg" width="90px" height="30px">
    <img src="./OS-Windows-informational.svg" width="25px" height="25px">
    <img src="./Code-C++-informational.svg" width="25px" height="25px">
    <img src="./Code-C-informational.svg" width="25px" height="25px">
