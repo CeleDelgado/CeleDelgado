@@ -63,7 +63,7 @@
 
 <div>
   <a href="https://github.com/CeleDelgado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=CeleDelgado&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CeleDelgado&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div> 
 
 ![Animación de serpiente](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
