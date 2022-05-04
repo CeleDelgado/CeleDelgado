@@ -33,6 +33,9 @@
 
 <br />
 
+---
+<br/>
+
 <h3 align="center"> <img src="./programming.png" width="25px" height="25px"> Languages and Tools</h3> 
 <p align="center">
   
