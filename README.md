@@ -5,7 +5,7 @@
 <tr>
 <td>
 
-[<img align="right" alt="Cele-Delgado | YouTube" width="22px" src="./youtube.png" />][youtube]
+  
 [<img align="right" alt="@___cele_ | Instagram" width="22px" src="./instagram.png" />][instagram]
 [<img align="right" alt="Celeste-Delgado | Linkedin" width="22px" src="./descarga.png" />][linkedin]
 [<img align="right" alt="Cele-Delgado | Behance" width="22px" src="./behance.png" />][behance]
@@ -72,7 +72,7 @@
 
 
                                                                                                                                                    
-[youtube]: https://www.youtube.com/c/Cele-Delgado
+
 [instagram]: https://www.instagram.com/___cele_/
 [linkedin]: https://www.linkedin.com/in/celeste-delgado
 [behance]: https://www.behance.net/celedelgado
