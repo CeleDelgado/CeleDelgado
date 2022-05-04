@@ -59,12 +59,11 @@
 
 ---
 
-<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats </h3> DESCARGAR GIF DE ESTADISTICA
+<h3 align="Center"> GitHub Stats </h3>
 
 <div>
   <a href="https://github.com/CeleDelgado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CeleDelgado&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeleDelgado&layout=compact&langs_count=7&theme=radical"/>
 </div> 
 
 ![Animación de serpiente](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
@@ -78,4 +77,4 @@
 [behance]: https://www.behance.net/celedelgado
 
 
-.
+
