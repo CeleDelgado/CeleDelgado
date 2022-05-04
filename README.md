@@ -7,7 +7,6 @@
 
 [<img align="right" alt="Cele-Delgado | YouTube" width="22px" src="./youtube.png" />][youtube]
 [<img align="right" alt="@___cele_ | Instagram" width="22px" src="./instagram.png" />][instagram]
-[<img align="right" alt="Celeste-Delgado | Facebook" width="22px" src="./facebook.png" />][facebook]
 [<img align="right" alt="Celeste-Delgado | Linkedin" width="22px" src="./descarga.png" />][linkedin]
 [<img align="right" alt="Cele-Delgado | Behance" width="22px" src="./behance.png" />][behance]
 
@@ -39,19 +38,19 @@
   
 
    <img src="./OS-MacOS-informational.svg" width="90px" height="25px">
-   <img src="./OS-Windows-informational.svg" width="25px" height="25px">
-   <img src="./Code-C++-informational.svg" width="25px" height="25px">
-   <img src="./Code-C-informational.svg" width="25px" height="25px">
-   <img src="./Code-HTML5-informational.svg" width="25px" height="25px">
-   <img src="./Code-JavaScript-informational.svg" width="25px" height="25px">
-   <img src="./Tools-Git-informational.svg" width="25px" height="25px">
-   <img src="./Tools-GitHub-informational.svg" width="25px" height="25px">
-   <img src="./Tools-AutoCAD-informational.svg" width="25px" height="25px">
-   <img src="./Tools-AdobeLightroom-informational.svg" width="25px" height="25px">
-   <img src="./Tools-AdobePhotoshop-informational.svg" width="25px" height="25px">
-   <img src="./AdobeIllustrator-informational.svg" width="25px" height="25px">
-   <img src="./Procreate-informational.svg" width="25px" height="25px">
-   <img src="./Maya-informational.svg" width="25px" height="25px">
+   <img src="./OS-Windows-informational.svg" width="90px" height="25px">
+   <img src="./Code-C++-informational.svg" width="90px" height="25px">
+   <img src="./Code-C-informational.svg" width="90px" height="25px">
+   <img src="./Code-HTML5-informational.svg" width="90px" height="25px">
+   <img src="./Code-JavaScript-informational.svg" width="90px" height="25px">
+   <img src="./Tools-Git-informational.svg" width="90px" height="25px">
+   <img src="./Tools-GitHub-informational.svg" width="90px" height="25px">
+   <img src="./Tools-AutoCAD-informational.svg" width="90px" height="25px">
+   <img src="./Tools-AdobeLightroom-informational.svg" width="90px" height="25px">
+   <img src="./Tools-AdobePhotoshop-informational.svg" width="90px" height="25px">
+   <img src="./AdobeIllustrator-informational.svg" width="90px" height="25px">
+   <img src="./Procreate-informational.svg" width="90px" height="25px">
+   <img src="./Maya-informational.svg" width="90px" height="25px">
   
   
     
@@ -75,7 +74,6 @@
                                                                                                                                                    
 [youtube]: https://www.youtube.com/c/Cele-Delgado
 [instagram]: https://www.instagram.com/___cele_/
-[facebook]: https://www.facebook.com/Celeste-Delgado
 [linkedin]: https://www.linkedin.com/in/celeste-delgado
 [behance]: https://www.behance.net/celedelgado
 
