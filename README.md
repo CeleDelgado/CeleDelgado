@@ -48,7 +48,9 @@
    <img src="./Tools-AutoCAD-informational.svg" width="90px" height="25px">
    <img src="./Tools-AdobeLightroom-informational.svg" width="90px" height="25px">
    <img src="./Tools-AdobePhotoshop-informational.svg" width="90px" height="25px">
+  <br/>
    <img src="./AdobeIllustrator-informational.svg" width="100px" height="25px">
+  <br/>
    <img src="./Procreate-informational.svg" width="90px" height="25px">
    <img src="./Maya-informational.svg" width="90px" height="25px">
   
