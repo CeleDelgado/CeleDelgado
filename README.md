@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola, soy Cele  <img src="./wave.gif" width="30px"></h1>
+<h1 align="center">Hi, i´m Cele  <img src="./wave.gif" width="30px"></h1>
 
 <tabla alinear="derecha">
 <tr>
