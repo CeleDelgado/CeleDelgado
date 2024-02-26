@@ -6,13 +6,11 @@
 </h1>
 
 
-<tabla alinear="derecha">
+<table alinear="derecha">
 <tr>
 <td>
 
-<table align="right">
-<tr>
-<td>   
+  
 [<img align="right" alt="@___cele_ | Instagram" width="22px" src="./instagram.png" /> [instagram] ] 
 [<img align="right" alt="Celeste-Delgado | Linkedin" width="22px" src="./descarga.png" />]
 [<img align="right" alt="Cele-Delgado | Behance" width="22px" src="./behance.png" />]
@@ -81,7 +79,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeleDelgado&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-  ---
+
   <br/>
 
 
