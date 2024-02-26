@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CeleDelgado.CeleDelgado" />
 
 <h1 align="center">Hi, i´m Cele  <img src="./wave.gif" width="30px"></h1>
 
