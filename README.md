@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, i´m Cele  <img src="./wave.gif" width="30px"></h1>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Cele+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hei+hei!+👋;+I'm+Cele+!;" />
 </h1>
 
 
