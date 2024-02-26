@@ -6,14 +6,14 @@
 </h1>
 
 
-<table alinear="derecha">
+<table align="right">
 <tr>
 <td>
+    
+[<img align="right" alt="@___cele_ | Instagram" width="22px" src="./instagram.png" />][instagram] 
+[<img align="right" alt="Celeste-Delgado | Linkedin" width="22px" src="./descarga.png" />][linkedin]
+[<img align="right" alt="Cele-Delgado | Behance" width="22px" src="./behance.png" />][behance]
 
-  
-[<img align="right" alt="@___cele_ | Instagram" width="22px" src="./instagram.png" /> [instagram] ] 
-[<img align="right" alt="Celeste-Delgado | Linkedin" width="22px" src="./descarga.png" />]
-[<img align="right" alt="Cele-Delgado | Behance" width="22px" src="./behance.png" />]
 </td>
 </tr>
 </table>
