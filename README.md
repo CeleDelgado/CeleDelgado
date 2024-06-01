@@ -103,7 +103,7 @@
   <br/>
                                                                                                                                                    
 
-[instagram]: https://www.instagram.com/___cele_/
+[instagram]: https://www.instagram.com/___celes_/
 [linkedin]: https://www.linkedin.com/in/celeste-delgado
 [behance]: https://www.behance.net/celedelgado
 
